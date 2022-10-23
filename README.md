@@ -1,2 +1,3 @@
 # COMP-202
-COMP 202 Assignments And Exercises
+COMP 202 Assignments and Exercises
+
